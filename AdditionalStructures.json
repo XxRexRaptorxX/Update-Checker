@@ -2,24 +2,13 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/additional-structures",
   
    "promos": {
-    "1.12.2-latest": "2.4.0",
-    "1.12.2-recommended": "2.4.0",
+    "1.12.2-latest": "2.4.1",
+    "1.12.2-recommended": "2.4.1",
     
-    "1.12.1-latest": "2.4.0",
-    "1.12.1-recommended": "2.4.0",
+    "1.12.1-latest": "2.4.1",
+    "1.12.1-recommended": "2.4.1",
     
-    "1.12-latest": "2.4.0",
-    "1.12-recommended": "2.4.0"
-  },
-  
-
-  "1.12.2": {
-    "2.4.0": "+ 6 new structures! (stone pillars, end trees, shulker clusters) \n * fixed update checker (too much traffic on the old link :o ) \n * some structures now generate in their expected biome \n * structure generation fixes \n * code cleanup"
-  },
-  "1.12.1": {
-    "2.4.0": "+ 6 new structures! (stone pillars, end trees, shulker clusters) \n * fixed update checker (too much traffic on the old link :o ) \n * some structures now generate in their expected biome \n * structure generation fixes \n * code cleanup"
-  },
-  "1.12": {
-    "2.4.0": "+ 6 new structures! (stone pillars, end trees, shulker clusters) \n * fixed update checker (too much traffic on the old link :o ) \n * some structures now generate in their expected biome \n * structure generation fixes \n * code cleanup"
+    "1.12-latest": "2.4.1",
+    "1.12-recommended": "2.4.1"
   }
 }
