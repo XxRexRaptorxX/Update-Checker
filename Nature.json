@@ -1,11 +1,11 @@
 {
-   "homepage": "",
+   "homepage": "https://www.curseforge.com/minecraft/mc-mods/enhancednature",
   
    "promos": {
-    "1.18.1-latest": "1.0.0",
-    "1.18.1-recommended": "1.0.0",
+    "1.18.1-latest": "1.0.1",
+    "1.18.1-recommended": "1.0.1",
     
-    "1.18-latest": "1.0.0",
-    "1.18-recommended": "1.0.0"
+    "1.18-latest": "1.0.1",
+    "1.18-recommended": "1.0.1"
   }
 }
