@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/particle-spawner",
   
    "promos": {
+    "1.19-latest": "1.1.1",
+    "1.19-recommended": "1.1.1"
+    
     "1.18.2-latest": "1.1.1",
     "1.18.2-recommended": "1.1.1",
       
