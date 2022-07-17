@@ -5,13 +5,13 @@
     "1.19-latest": "1.1.2",
     "1.19-recommended": "1.1.2",
     
-    "1.18.2-latest": "1.1.1",
-    "1.18.2-recommended": "1.1.1",
+    "1.18.2-latest": "1.1.1a",
+    "1.18.2-recommended": "1.1.1a",
       
-    "1.18.1-latest": "1.1.1",
-    "1.18.1-recommended": "1.1.1",
+    "1.18.1-latest": "1.1.1a",
+    "1.18.1-recommended": "1.1.1a",
     
-    "1.18-latest": "1.1.1",
-    "1.18-recommended": "1.1.1"
+    "1.18-latest": "1.1.1a",
+    "1.18-recommended": "1.1.1a"
   }
 }
