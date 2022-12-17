@@ -1,6 +1,6 @@
 # XxRexRaptorxX's Minecraft Mods
 
-<a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/xxrexraptorxx.svg?badge_style=flat" />
+<a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/XxRexRaptorxX.svg?badge_style=flat" />
 
 ## Additional Structures
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
