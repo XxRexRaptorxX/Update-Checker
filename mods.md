@@ -1,19 +1,19 @@
 # XxRexRaptorxX's Minecraft Mods
 
 ## Additional Structures
-<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/short_297680.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
 
 ## Additional Structures - Fabric
-<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/short_585782.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/585782.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_585782.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/585782.svg?badge_style=flat" /></a>
   
 ## Customized Dungeon Loot
-<a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/short_258944.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/258944.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/full_258944.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/258944.svg?badge_style=flat" /></a>
     
 ## Uncrafted
-<a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/short_318036.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/240630.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/full_318036.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/240630.svg?badge_style=flat" /></a>
     
 ## Lexicon
-<a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/short_615275.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/615275.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/full_615275.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/615275.svg?badge_style=flat" /></a>
     
 ## All the Compatibility
 <a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/short_560350.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/560350.svg?badge_style=flat" /></a>
