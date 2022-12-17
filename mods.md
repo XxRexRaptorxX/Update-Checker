@@ -1,6 +1,7 @@
 # XxRexRaptorxX's Minecraft Mods
 
 ## Additional Structures
+<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="https://cf.way2muchnoise.eu/title/297680.svg?badge_style=flat" />
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
 
 ## Additional Structures - Fabric
