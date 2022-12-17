@@ -10,7 +10,7 @@
 <a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/short_318036.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/318036.svg?badge_style=flat" /></a>
     
 ## Uncrafted
-<a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/jei.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/318036.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/short_318036.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/uncrafted" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/jei.svg?badge_style=flat" /></a>
     
 ## Lexicon
 <a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/short_318036.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/318036.svg?badge_style=flat" /></a>
