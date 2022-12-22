@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/bedrock-miner",
   
    "promos": {
+    "1.19.3-latest": "2.0.0-pre7",
+    "1.19.3-recommended": "2.0.0-pre7",
+      
     "1.19.2-latest": "2.0.0-pre6",
     "1.19.2-recommended": "2.0.0-pre6",
       
