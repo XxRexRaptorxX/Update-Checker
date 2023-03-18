@@ -16,6 +16,9 @@
     
 ## Lexicon
 <a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/full_615275_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/615275.svg?badge_style=flat" /></a>
+
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/7RSp3ivG?label=Modrinth&logo=modrinth&style=for-the-badge)][mr_lexicon] [![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/7RSp3ivG?label=Available%20for&logo=modrinth&style=for-the-badge)][mr_lexicon]
+
     
 ## All the Compatibility
 <a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/full_560350_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/560350.svg?badge_style=flat" /></a>
