@@ -5,7 +5,7 @@
 ## Additional Structures
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
 
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/TWsbC6jW?label=Modrinth&logo=modrinth&style=for-the-badge)][https://modrinth.com/mod/additional-structures]
+[![https://modrinth.com/mod/additional-structures](https://img.shields.io/modrinth/dt/TWsbC6jW?label=Modrinth&logo=modrinth&style=for-the-badge)]
 
 ## Additional Structures - Fabric
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_585782_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/585782.svg?badge_style=flat" /></a>
