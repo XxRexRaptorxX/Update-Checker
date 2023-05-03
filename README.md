@@ -5,7 +5,7 @@
 ## Additional Structures
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
 
-## Additional Structures - Fabric
+## Additional Structures - Fabric / Quilt
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_585782_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/585782.svg?badge_style=flat" /></a>
   
 ## Customized Dungeon Loot
@@ -16,6 +16,9 @@
     
 ## Lexicon
 <a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/full_615275_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/lexicon" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/615275.svg?badge_style=flat" /></a>
+
+## Lexicon - Fabric / Quilt
+<a href="https://legacy.curseforge.com/minecraft/mc-mods/lexicon-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_838803_downloads.svg?badge_style=flat" /><a href="https://legacy.curseforge.com/minecraft/mc-mods/lexicon-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/838803.svg?badge_style=flat" /></a>
 
 ## All the Compatibility
 <a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/full_560350_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/560350.svg?badge_style=flat" /></a>
