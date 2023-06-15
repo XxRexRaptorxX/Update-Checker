@@ -2,6 +2,12 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/additional-structures",
   
    "promos": {
+    "1.20.1-latest": "4.1.0",
+    "1.20.1-recommended": "4.1.0",
+      
+    "1.20-latest": "4.1.0",
+    "1.20-recommended": "4.1.0",
+      
     "1.19.4-latest": "4.0.3",
     "1.19.4-recommended": "4.0.3",
       
