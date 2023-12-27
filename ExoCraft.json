@@ -2,14 +2,20 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/extra-gems",
   
    "promos": {
-    "1.20.2-latest": "2.1.2",
-    "1.20.2-recommended": "2.1.2",
+    "1.20.4-latest": "2.1.3",
+    "1.20.4-recommended": "2.1.3",
+
+    "1.20.3-latest": "2.1.3",
+    "1.20.3-recommended": "2.1.3",
+
+    "1.20.2-latest": "2.1.3",
+    "1.20.2-recommended": "2.1.3",
       
-    "1.20.1-latest": "2.1.2",
-    "1.20.1-recommended": "2.1.2",
+    "1.20.1-latest": "2.1.3",
+    "1.20.1-recommended": "2.1.3",
     
-    "1.20-latest": "2.1.2",
-    "1.20-recommended": "2.1.2",
+    "1.20-latest": "2.1.3",
+    "1.20-recommended": "2.1.3",
     
     "1.12-latest": "1.1.0",
     "1.12-recommended": "1.1.0"
