@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/suspicious_pots",
   
    "promos": {
+    "1.21-latest": "3.0.0",
+    "1.21-recommended": "3.0.0",
+      
     "1.20.4-latest": "2.0.1",
     "1.20.4-recommended": "2.0.1",
 
