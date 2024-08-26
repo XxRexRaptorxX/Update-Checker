@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/uncrafted",
   
    "promos": {
+      "1.21.1-latest": "5.0.1",
+      "1.21.1-recommended": "5.0.1",
+      
       "1.21-latest": "5.0.1",
       "1.21-recommended": "5.0.1",
      
