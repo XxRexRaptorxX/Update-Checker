@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility",
   
    "promos": {
+    "1.21.1-latest": "3.1.0",
+    "1.21.1-recommended": "3.1.0"
+      
     "1.21-latest": "3.1.0",
     "1.21-recommended": "3.1.0"
   }
