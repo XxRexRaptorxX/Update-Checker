@@ -2,6 +2,9 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/tool-upgrades",
   
    "promos": {
+    "1.21.1-latest": "4.0.0",
+    "1.21.1-recommended": "4.0.0",
+      
     "1.21-latest": "4.0.0",
     "1.21-recommended": "4.0.0",
       
