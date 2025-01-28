@@ -87,3 +87,7 @@
 
 ## KeyEffects
 <a href="https://www.curseforge.com/minecraft/mc-mods/keyeffects" target="_blank"><img src="http://cf.way2muchnoise.eu/full_239403.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/keyeffects" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/239403.svg?badge_style=flat" /></a>
+
+-----
+
+![Bisect Hosting Banner](https://github.com/XxRexRaptorxX/General/blob/main/BH_REX_Bisect.png?raw=true)
