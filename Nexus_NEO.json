@@ -2,6 +2,18 @@
    "homepage": "https://www.curseforge.com/minecraft/mc-mods/nexus-battle-mode",
   
    "promos": {
+    "1.21.4-latest": "3.0.0",
+    "1.21.4-recommended": "3.0.0",
+
+    "1.21.3-latest": "3.0.0",
+    "1.21.3-recommended": "3.0.0",
+    
+    "1.21.2-latest": "3.0.0",
+    "1.21.2-recommended": "3.0.0",
+      
+    "1.21.1-latest": "2.0.0",
+    "1.21.1-recommended": "2.0.0",
+      
     "1.21-latest": "2.0.0",
     "1.21-recommended": "2.0.0",
       
