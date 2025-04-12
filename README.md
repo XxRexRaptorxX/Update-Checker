@@ -25,6 +25,9 @@
     
 ## MineTraps
 <a href="https://www.curseforge.com/minecraft/mc-mods/minetraps" target="_blank"><img src="http://cf.way2muchnoise.eu/full_311546_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/minetraps" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/311546.svg?badge_style=flat" /></a>
+
+## MineTraps -  Fabric / Quilt
+<a href="https://www.curseforge.com/minecraft/mc-mods/minetraps-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_1039596_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/minetraps-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/1039596.svg?badge_style=flat" /></a>
     
 ## Age of Weapons
 <a href="https://www.curseforge.com/minecraft/mc-mods/age-of-weapons" target="_blank"><img src="http://cf.way2muchnoise.eu/full_265090_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/age-of-weapons" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/265090.svg?badge_style=flat" /></a>
