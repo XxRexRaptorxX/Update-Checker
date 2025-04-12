@@ -53,7 +53,7 @@
 ## ToolUpgrades
 <a href="https://www.curseforge.com/minecraft/mc-mods/tool-upgrades" target="_blank"><img src="http://cf.way2muchnoise.eu/full_258131_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/tool-upgrades" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/258131.svg?badge_style=flat" /></a>
   
-## Advanced Sticks
+## Advanced Tools / Advanced Sticks
 <a href="https://www.curseforge.com/minecraft/mc-mods/advanced-sticks" target="_blank"><img src="http://cf.way2muchnoise.eu/full_247091_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-sticks" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/247091.svg?badge_style=flat" /></a>
   
 ## Enhanced Nature
