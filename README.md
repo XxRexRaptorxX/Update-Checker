@@ -3,7 +3,7 @@
 <a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/full_XxRexRaptorxX_downloads.svg?badge_style=flat" />
 
 ## Additional Structures
-<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/full_297680_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/297680.svg?badge_style=flat" /></a> [![Modrinth Badge](https://img.shields.io/modrinth/dt/additional-structures?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)]([https://modrinth.com/mod/additional-structures](https://modrinth.com/mod/additional-structures))
 
 ## Additional Structures - Fabric / Quilt
 <a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/full_585782_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/additional-structures-fabric" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/585782.svg?badge_style=flat" /></a>
