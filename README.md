@@ -146,9 +146,6 @@
 ![mod logo](https://cdn.modrinth.com/data/Z5XhTAvm/bf31727d922076d2cee9a64b00f14d262a89d4fc_96.webp) 
 
 
-## Minecraft Mechanics
-<a href="https://www.curseforge.com/minecraft/modpacks/minecraft-mechanics" target="_blank"><img src="http://cf.way2muchnoise.eu/full_245645_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/modpacks/minecraft-mechanics" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/245645.svg?badge_style=flat" /></a>
-  
 ## Mob Spawning Plus
 <a href="https://www.curseforge.com/minecraft/mc-mods/mob-spawning-plus" target="_blank"><img src="http://cf.way2muchnoise.eu/full_303811_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/mob-spawning-plus" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/303811.svg?badge_style=flat" /></a>  [![Modrinth](https://img.shields.io/modrinth/dt/mob-spawning-plus?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/mob-spawning-plus)  
 
@@ -190,6 +187,10 @@
 
 ![mod logo](https://cdn.modrinth.com/data/yFhF8g6N/eb1debcf632f19f471357cc137aee8e8c2819a61_96.webp) 
 
+
+## Minecraft Mechanics
+<a href="https://www.curseforge.com/minecraft/modpacks/minecraft-mechanics" target="_blank"><img src="http://cf.way2muchnoise.eu/full_245645_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/modpacks/minecraft-mechanics" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/245645.svg?badge_style=flat" /></a>
+  
 -----
 
 ![Bisect Hosting Banner](https://github.com/XxRexRaptorxX/General/blob/main/BH_REX_Bisect.png?raw=true)
