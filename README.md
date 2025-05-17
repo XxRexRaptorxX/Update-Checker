@@ -68,6 +68,12 @@
 ![mod logo](https://cdn.modrinth.com/data/9Jlq5kyj/38099d3929015d698bb879c9707dbc053d9a6508.png) 
 
 
+## City Craft
+<a href="https://www.curseforge.com/minecraft/mc-mods/city-craft" target="_blank"><img src="http://cf.way2muchnoise.eu/full_985069_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/city-craft" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/985069.svg?badge_style=flat" /></a> [![Modrinth](https://img.shields.io/modrinth/dt/nexus?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/rexs-city-craft)
+
+![mod logo](https://cdn.modrinth.com/data/94iqI5Ec/82baee6e868c43ab2f3dadada47b8b7032236338_96.webp) 
+
+
 ## Nexus
 <a href="https://www.curseforge.com/minecraft/mc-mods/nexus-battle-mode" target="_blank"><img src="http://cf.way2muchnoise.eu/full_639182_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/nexus-battle-mode" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/639182.svg?badge_style=flat" /></a> [![Modrinth](https://img.shields.io/modrinth/dt/nexus?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/nexus)
 
