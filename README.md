@@ -58,7 +58,10 @@
   
 ## Advanced Tools / Advanced Sticks
 <a href="https://www.curseforge.com/minecraft/mc-mods/advanced-sticks" target="_blank"><img src="http://cf.way2muchnoise.eu/full_247091_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-sticks" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/247091.svg?badge_style=flat" /></a> [![Modrinth](https://img.shields.io/modrinth/dt/advanced-tools?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/advanced-tools)
-  
+
+## Magma Core
+<a href="https://www.curseforge.com/minecraft/mc-mods/magma-core" target="_blank"><img src="http://cf.way2muchnoise.eu/full_1267885_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/magma-core" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/1267885.svg?badge_style=flat" /></a> [![Modrinth](https://img.shields.io/modrinth/dt/magma-core?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/magma-core)
+
 ## Enhanced Nature
 <a href="https://www.curseforge.com/minecraft/mc-mods/enhancednature" target="_blank"><img src="http://cf.way2muchnoise.eu/full_556321_downloads.svg?badge_style=flat" /><a href="https://www.curseforge.com/minecraft/mc-mods/enhancednature" target="_blank"><img src="http://cf.way2muchnoise.eu/versions/556321.svg?badge_style=flat" /></a> [![Modrinth](https://img.shields.io/modrinth/dt/enhanced-nature?color=00AF5C&label=downloads&logo=modrinth&style=flat-square)](https://modrinth.com/mod/enhanced-nature)
   
